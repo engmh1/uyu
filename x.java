@@ -7,11 +7,7 @@ public class Calculator {
 
         System.out.println("Enter first number: ");
         double num1 = scanner.nextDouble();
-
-        System.out.println("Enter an operator (+, -, *, /): ");
-        char operator = scanner.next().charAt(0);
-
-        System.out.println("Enter second number: ");
+v 
         double num2 = scanner.nextDouble();
 
         double result;
